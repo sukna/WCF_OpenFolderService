@@ -1,0 +1,7 @@
+C:\Users\bojan.suknovic\source\repos\WCF_OpenFolder\WCF_OpenFolder\bin\WCF_OpenFolder.dll.config
+C:\Users\bojan.suknovic\source\repos\WCF_OpenFolder\WCF_OpenFolder\bin\WCF_OpenFolder.dll
+C:\Users\bojan.suknovic\source\repos\WCF_OpenFolder\WCF_OpenFolder\bin\WCF_OpenFolder.pdb
+C:\Users\bojan.suknovic\source\repos\WCF_OpenFolder\WCF_OpenFolder\obj\Debug\WCF_OpenFolder.csprojAssemblyReference.cache
+C:\Users\bojan.suknovic\source\repos\WCF_OpenFolder\WCF_OpenFolder\obj\Debug\WCF_OpenFolder.csproj.CoreCompileInputs.cache
+C:\Users\bojan.suknovic\source\repos\WCF_OpenFolder\WCF_OpenFolder\obj\Debug\WCF_OpenFolder.dll
+C:\Users\bojan.suknovic\source\repos\WCF_OpenFolder\WCF_OpenFolder\obj\Debug\WCF_OpenFolder.pdb
